@@ -92,3 +92,10 @@ Sample:
 [Vinayak Bhadage](https://in.linkedin.com/pub/vinayak-bhadage/9/624/47a)
 
 [Abhijeet Mahajan](https://in.linkedin.com/pub/abhijeet-mahajan/88/575/188)
+
+
+**References:**
+
+https://github.com/vinayakbhadage/InfluxDB.Net
+
+https://github.com/vinayakbhadage/statsd-csharp-client
