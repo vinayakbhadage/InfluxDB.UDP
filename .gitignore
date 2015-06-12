@@ -1,0 +1,4 @@
+packages
+obj
+/InfluxDB.UDP/InfluxDB.UDP/bin
+/InfluxDB.UDP/TestInfluxDB.UDP/bin
