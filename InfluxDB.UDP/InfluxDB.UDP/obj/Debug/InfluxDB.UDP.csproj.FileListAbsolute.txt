@@ -1,0 +1,6 @@
+D:\InluxDB Udp Client\InfluxDB.UDP\InfluxDB.UDP\bin\Debug\InfluxDB.UDP.dll
+D:\InluxDB Udp Client\InfluxDB.UDP\InfluxDB.UDP\bin\Debug\InfluxDB.UDP.pdb
+D:\InluxDB Udp Client\InfluxDB.UDP\InfluxDB.UDP\bin\Debug\Newtonsoft.Json.dll
+D:\InluxDB Udp Client\InfluxDB.UDP\InfluxDB.UDP\bin\Debug\Newtonsoft.Json.xml
+D:\InluxDB Udp Client\InfluxDB.UDP\InfluxDB.UDP\obj\Debug\InfluxDB.UDP.dll
+D:\InluxDB Udp Client\InfluxDB.UDP\InfluxDB.UDP\obj\Debug\InfluxDB.UDP.pdb
