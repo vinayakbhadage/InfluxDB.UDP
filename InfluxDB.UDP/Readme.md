@@ -12,11 +12,11 @@ Also If you want to add a column in database you simply have to send the the col
 
 ### How to Use it ###
 
-1.First you have to initialize the Host.
+1.First you have to install the InfluxDB with UDP using [this](https://github.com/vinayakbhadage/docker-influxdb-collectd) or from http://influxdb.com/docs/v0.8/introduction/getting_started.html
 
-Provided that your InfluxDB is installed on the Host. After this your client is ready to receive stats.
+Provided that your InfluxDB is installed on the Host. After this your client is ready to send the stats.
 
-Sample:
+Initialize Client:
 
 	var hostName = "";//Host Name
 	var machineName = "";//Name of the machine of which stats you are storing.Just for reference
@@ -42,7 +42,7 @@ Sample:
 
 	var seriesName = "Sample.TestSeries";
 	var dataPoints = new Dictionary<string, object>();
-    dataPoints.Add("ApplicationId", 12454556546);
+    	dataPoints.Add("ApplicationId", 12454556546);
 
     using (var metrics = MetricsManager.StartTimer(seriesName))
     {
